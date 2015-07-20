@@ -1,0 +1,2 @@
+wait 1 sec
+aa 03 01 86 84 bb

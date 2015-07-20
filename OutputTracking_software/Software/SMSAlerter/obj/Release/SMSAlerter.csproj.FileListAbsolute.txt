@@ -1,0 +1,179 @@
+E:\MEIPAS_LM\SMSAlerter\bin\Release\SMSAlerter.exe.config
+E:\MEIPAS_LM\SMSAlerter\bin\Release\SMSAlerter.exe
+E:\MEIPAS_LM\SMSAlerter\bin\Release\SMSAlerter.pdb
+E:\MEIPAS_LM\SMSAlerter\bin\Release\GSM_SMS.dll
+E:\MEIPAS_LM\SMSAlerter\bin\Release\MEIPAS.Shared.dll
+E:\MEIPAS_LM\SMSAlerter\bin\Release\MEI.SerialPortDriver.dll
+E:\MEIPAS_LM\SMSAlerter\bin\Release\GSM_SMS.pdb
+E:\MEIPAS_LM\SMSAlerter\bin\Release\MEI.SerialPortDriver.pdb
+E:\MEIPAS_LM\SMSAlerter\bin\Release\MEIPAS.Shared.pdb
+E:\MEIPAS_LM\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter.baml
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter.g.cs
+E:\MEIPAS_LM\SMSAlerter\obj\Release\App.g.cs
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter_MarkupCompile.cache
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter.g.resources
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter.Properties.Resources.resources
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter.exe
+E:\MEIPAS_LM\SMSAlerter\obj\Release\SMSAlerter.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Release\SMSAlerter.exe.config
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Release\SMSAlerter.exe
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Release\SMSAlerter.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Release\MEI.SerialPortDriver.dll
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Release\GSM_SMS.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Release\MEI.SerialPortDriver.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Release\MEIPAS.Shared.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\App.g.cs
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+E:\APC\IAS\SMSAlerter\bin\Release\gsm.sms.exe.config
+E:\APC\IAS\SMSAlerter\bin\Release\gsm.sms.exe
+E:\APC\IAS\SMSAlerter\bin\Release\gsm.sms.pdb
+E:\APC\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+E:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+E:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+E:\APC\IAS\SMSAlerter\obj\Release\App.g.cs
+E:\APC\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+E:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+E:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+E:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+E:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+E:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+E:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+E:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+E:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+F:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+F:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+F:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+F:\APC\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+F:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+F:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+F:\APC\IAS\SMSAlerter\obj\Release\App.g.cs
+F:\APC\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+F:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+F:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+F:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+F:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+F:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+C:\Documents and Settings\Prabhu\Desktop\APC\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+E:\APC\IAS\SMSAlerter\bin\Debug\GSM_SMS.pdb
+D:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+D:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+D:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+D:\APC\IAS\SMSAlerter\bin\Debug\GSM_SMS.pdb
+D:\APC\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+D:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+D:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+D:\APC\IAS\SMSAlerter\obj\Release\App.g.cs
+D:\APC\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+D:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+D:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+D:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+D:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+D:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+F:\APC\IAS\SMSAlerter\bin\Debug\GSM_SMS.dll
+F:\APC\IAS\SMSAlerter\bin\Debug\GSM_SMS.pdb
+I:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+I:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+I:\APC\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+I:\APC\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+I:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+I:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+I:\APC\IAS\SMSAlerter\obj\Release\App.g.cs
+I:\APC\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+I:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+I:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+I:\APC\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+I:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+I:\APC\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\App.g.cs
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+I:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\App.g.cs
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.dll
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.dll
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.pdb
+E:\Projects\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.pdb
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.dll
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.dll
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.pdb
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.pdb
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\App.g.cs
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+D:\Schneider_Hyderabad\Software\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+E:\Projects\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+E:\Projects\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+E:\Projects\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+E:\Projects\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.dll
+E:\Projects\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.dll
+E:\Projects\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.pdb
+E:\Projects\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.pdb
+E:\Projects\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+E:\Projects\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+E:\Projects\IAS\SMSAlerter\obj\Release\App.g.cs
+E:\Projects\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+E:\Projects\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+E:\Projects\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+E:\Projects\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+E:\Projects\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+E:\Projects\IAS\SMSAlerter\obj\Release\gsm.sms.pdb
+I:\IAS\SMSAlerter\bin\Debug\gsm.sms.exe.config
+I:\IAS\SMSAlerter\bin\Debug\gsm.sms.exe
+I:\IAS\SMSAlerter\bin\Debug\gsm.sms.pdb
+I:\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.dll
+I:\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.dll
+I:\IAS\SMSAlerter\bin\Debug\ias.GSM_SMS.pdb
+I:\IAS\SMSAlerter\bin\Debug\ias.SerialPortDriver.pdb
+I:\IAS\SMSAlerter\obj\Release\ResolveAssemblyReference.cache
+I:\IAS\SMSAlerter\obj\Release\SMSAlerter.baml
+I:\IAS\SMSAlerter\obj\Release\SMSAlerter.g.cs
+I:\IAS\SMSAlerter\obj\Release\App.g.cs
+I:\IAS\SMSAlerter\obj\Release\gsm.sms_MarkupCompile.cache
+I:\IAS\SMSAlerter\obj\Release\gsm.sms.g.resources
+I:\IAS\SMSAlerter\obj\Release\gsm.sms.Properties.Resources.resources
+I:\IAS\SMSAlerter\obj\Release\SMSAlerter.csproj.GenerateResource.Cache
+I:\IAS\SMSAlerter\obj\Release\gsm.sms.exe
+I:\IAS\SMSAlerter\obj\Release\gsm.sms.pdb

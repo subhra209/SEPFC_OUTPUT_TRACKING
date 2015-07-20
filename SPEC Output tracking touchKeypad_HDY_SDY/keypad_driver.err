@@ -1,0 +1,25 @@
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 311 : symbol 'KBD_ROW0_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 311 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 312 : symbol 'KBD_ROW1_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 312 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 313 : symbol 'KBD_ROW2_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 313 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 314 : symbol 'KBD_ROW3_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 314 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 316 : symbol 'KBD_COL0_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 316 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 317 : symbol 'KBD_COL1_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 317 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 318 : symbol 'KBD_COL2_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 318 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 319 : symbol 'KBD_COL3_DIR' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 319 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 322 : symbol 'KBD_COL0' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 322 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 323 : symbol 'KBD_ROW0' has not been defined
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 324 : symbol 'KBD_ROW1' has not been defined
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 325 : symbol 'KBD_ROW2' has not been defined
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 326 : symbol 'KBD_ROW3' has not been defined
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 327 : symbol 'KBD_COL0' has not been defined
+Error[1101] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 327 : lvalue required
+Error[1105] C:\Documents and Settings\sagar\Desktop\Keypad_subhra\keypad_driver.c 329 : symbol 'KBD_COL1' has not been defined

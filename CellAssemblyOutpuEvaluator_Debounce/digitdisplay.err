@@ -1,0 +1,18 @@
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 405 : symbol 'DIGIT_SEL_A' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 405 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 406 : symbol 'DIGIT_SEL_B' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 406 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 407 : symbol 'DIGIT_SEL_C' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 407 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 408 : symbol 'DIGIT_SEL_D' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 408 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 410 : symbol 'DISPLAY_PORT' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 410 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 414 : symbol 'DIGIT_SEL_A' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 414 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 418 : symbol 'DIGIT_SEL_B' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 418 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 422 : symbol 'DIGIT_SEL_C' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 422 : lvalue required
+Error[1105] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 427 : symbol 'DIGIT_SEL_D' has not been defined
+Error[1101] C:\Saagar\SCHNEIDER_SEPFC\CellAssemblyOutpuEvaluator\digitdisplay.c 427 : lvalue required

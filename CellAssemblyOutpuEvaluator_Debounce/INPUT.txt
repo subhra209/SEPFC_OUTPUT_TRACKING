@@ -1,0 +1,44 @@
+
+wait 7 sec
+//AA 01 08 75 00 01 06 03 11 08 14 75 BB
+
+AA 01 08 75 00 30 12 03 11 08 14 50 BB
+
+wait 1 sec
+AA 01 04 70 02 77 BB
+
+
+wait 1 sec
+aa 01 08 77 02 48 44 59 31 18 BB
+
+
+wait 1 sec
+aa 01 06 74 02 02 00 02 00 71 BB
+
+
+
+wait 1 sec
+AA 01 04 70 02 77 BB
+
+
+wait 1 sec
+AA 01 05 72 02 02 76 BB
+
+//Break command
+wait 2 sec 
+AA 01 04 73 02 74 BB		
+
+
+//Break command
+wait 2 sec 
+AA 01 04 73 02 74 BB
+
+
+//Break command
+wait 2 sec 
+AA 01 04 73 02 74 BB
+
+
+//Break command
+wait 2 sec 
+AA 01 04 73 02 74 BB

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IAS">
+</Property><Property Name="Solution File" Value="C:\Saagar\Software\IAS\IAS.sln">
+</Property><Property Name="User Options File" Value="C:\Saagar\Software\IAS\IAS.suo">
+</Property><Property Name="Date" Value="04 November 2013">
+</Property><Property Name="Time" Value="07:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IAS.sln" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IAS.suo" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS.suo">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\IAS.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\IAS.csproj">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\IAS.csproj.user" Description="Project user file successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\IAS.csproj.user">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\App.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\addModifyDeleteControl.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\addModifyDeleteControl.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\ClassInfo.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\ClassInfo.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\ShiftAddDelete.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\ShiftAddDelete.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SupportGroupManagement\ContactAddDelete.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SupportGroupManagement\ContactAddDelete.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SupportGroupManagement\ContactAssociation.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SupportGroupManagement\ContactAssociation.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SupportGroupManagement\ContactDetails.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SupportGroupManagement\ContactDetails.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\DataAccess.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\IssueManagemet.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\IssueManagemet.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\LineInfo.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\LineInfo.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\LineManagement.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\LineManagement.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\MainMenu.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\MainMenu.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\SessionInfo.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\SessionInfo.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SettingsManagment\Settings.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SettingsManagment\Settings.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\ShiftInfo.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\ShiftInfo.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\ShiftManagement.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\ShiftManagement.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\StartPage.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\StartPage.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\StationInfo.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\StationInfo.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SupportGroupManagement\SupportGroupManagement.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SupportGroupManagement\SupportGroupManagement.xaml.cs">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\App.config" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\App.config">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\Properties\Settings.settings" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\Properties\Resources.resx" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\App.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\App.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\addModifyDeleteControl.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\addModifyDeleteControl.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ResourceDictionary.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ResourceDictionary.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\Resources\BrushesDictionary.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\Resources\BrushesDictionary.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\ClassInfo.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\ClassInfo.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\ShiftAddDelete.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\ShiftAddDelete.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SupportGroupManagement\ContactAddDelete.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SupportGroupManagement\ContactAddDelete.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SupportGroupManagement\ContactDetails.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SupportGroupManagement\ContactDetails.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\LineInfo.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\LineInfo.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\LineManagement.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\LineManagement.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\MainMenu.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\MainMenu.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\SessionInfo.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\SessionInfo.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SettingsManagment\Settings.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SettingsManagment\Settings.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\ShiftInfo.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\ShiftInfo.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\ShiftManagement\ShiftManagement.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\ShiftManagement\ShiftManagement.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\StartPage.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\StartPage.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\LineManagement\StationInfo.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\LineManagement\StationInfo.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\SupportGroupManagement\SupportGroupManagement.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\IAS\SupportGroupManagement\SupportGroupManagement.xaml">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\IAS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IAS" Source="IAS\IAS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AndonManager" Source="AndonManager\AndonManager.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\AndonManager\AndonManager.csproj">
+</Event><Event ErrorLevel="0" Project="AndonManager" Source="AndonManager\Andon.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\AndonManager\Andon.cs">
+</Event><Event ErrorLevel="0" Project="AndonManager" Source="AndonManager\AndonManager.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\AndonManager\AndonManager.cs">
+</Event><Event ErrorLevel="0" Project="AndonManager" Source="AndonManager\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\AndonManager\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AndonManager" Source="AndonManager\AndonManager.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AndonManager" Source="AndonManager\AndonManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GSM_SMS" Source="GSM_SMS\GSM_SMS.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\GSM_SMS\GSM_SMS.csproj">
+</Event><Event ErrorLevel="0" Project="GSM_SMS" Source="GSM_SMS\GSM_SMS.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\GSM_SMS\GSM_SMS.cs">
+</Event><Event ErrorLevel="0" Project="GSM_SMS" Source="GSM_SMS\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\GSM_SMS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GSM_SMS" Source="GSM_SMS\GSM_SMS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GSM_SMS" Source="GSM_SMS\GSM_SMS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RS485Driver" Source="RS485Driver\RS485Driver.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\RS485Driver\RS485Driver.csproj">
+</Event><Event ErrorLevel="0" Project="RS485Driver" Source="RS485Driver\RS485Driver.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\RS485Driver\RS485Driver.cs">
+</Event><Event ErrorLevel="0" Project="RS485Driver" Source="RS485Driver\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\RS485Driver\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RS485Driver" Source="RS485Driver\RS485Driver.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RS485Driver" Source="RS485Driver\RS485Driver.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SerialPortDriver" Source="SerialPortDriver\SerialPortDriver.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\SerialPortDriver\SerialPortDriver.csproj">
+</Event><Event ErrorLevel="0" Project="SerialPortDriver" Source="SerialPortDriver\SerialPortDriver.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SerialPortDriver\SerialPortDriver.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortDriver" Source="SerialPortDriver\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SerialPortDriver\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortDriver" Source="SerialPortDriver\App.config" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SerialPortDriver\App.config">
+</Event><Event ErrorLevel="0" Project="SerialPortDriver" Source="SerialPortDriver\SerialPortDriver.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SerialPortDriver" Source="SerialPortDriver\SerialPortDriver.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="shared" Source="shared\shared.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\shared\shared.csproj">
+</Event><Event ErrorLevel="0" Project="shared" Source="shared\shared.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\shared\shared.cs">
+</Event><Event ErrorLevel="0" Project="shared" Source="shared\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\shared\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="shared" Source="shared\shared.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="shared" Source="shared\shared.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\SMSAlerter.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\SMSAlerter.csproj">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\App.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\SMSAlerter.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\SMSAlerter.xaml.cs">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\DataAccess.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\sms.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\sms.cs">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\App.config" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\App.config">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\Properties\Settings.settings" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\Properties\Resources.resx" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\App.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\App.xaml">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\SMSAlerter.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\SMSAlerter\SMSAlerter.xaml">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\SMSAlerter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SMSAlerter" Source="SMSAlerter\SMSAlerter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XbeeDriver" Source="Xbee\XbeeDriver.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\Xbee\XbeeDriver.csproj">
+</Event><Event ErrorLevel="0" Project="XbeeDriver" Source="Xbee\XbeeDriver.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\Xbee\XbeeDriver.cs">
+</Event><Event ErrorLevel="0" Project="XbeeDriver" Source="Xbee\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\Xbee\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XbeeDriver" Source="Xbee\XbeeDriver.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XbeeDriver" Source="Xbee\XbeeDriver.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="client" Source="client\client.csproj" Description="Project file successfully backed up as C:\Saagar\Software\IAS\Backup\client\client.csproj">
+</Event><Event ErrorLevel="0" Project="client" Source="client\client.csproj.user" Description="Project user file successfully backed up as C:\Saagar\Software\IAS\Backup\client\client.csproj.user">
+</Event><Event ErrorLevel="0" Project="client" Source="client\App.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="client" Source="client\Window1.xaml.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="client" Source="client\DataAccess.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="client" Source="client\LineStatus.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\LineStatus.cs">
+</Event><Event ErrorLevel="0" Project="client" Source="client\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="client" Source="client\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="client" Source="client\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="client" Source="client\App.config" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\App.config">
+</Event><Event ErrorLevel="0" Project="client" Source="client\Properties\Settings.settings" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="client" Source="client\Properties\Resources.resx" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="client" Source="client\App.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\App.xaml">
+</Event><Event ErrorLevel="0" Project="client" Source="client\Window1.xaml" Description="File successfully backed up as C:\Saagar\Software\IAS\Backup\client\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="client" Source="client\client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="client" Source="client\client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IAS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IAS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IAS" Source="IAS\IAS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AndonManager" Source="AndonManager\AndonManager.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GSM_SMS" Source="GSM_SMS\GSM_SMS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RS485Driver" Source="RS485Driver\RS485Driver.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SerialPortDriver" Source="SerialPortDriver\SerialPortDriver.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="shared" Source="shared\shared.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SMSAlerter" Source="SMSAlerter\SMSAlerter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XbeeDriver" Source="Xbee\XbeeDriver.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="client" Source="client\client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

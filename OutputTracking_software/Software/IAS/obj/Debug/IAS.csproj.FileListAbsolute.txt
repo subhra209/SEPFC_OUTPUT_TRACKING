@@ -1,0 +1,447 @@
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\IAS.exe.config
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ResourceDictionary.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\MainMenu.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\StartPage.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\ClassInfo.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\MainMenu.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\StartPage.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\App.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\IAS.exe
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\IAS.pdb
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.andonmanager.dll
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\WPFToolkit.dll
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.485Driver.dll
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.Xbee.dll
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\WPFToolkit.pdb
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.485Driver.pdb
+C:\Saagar\Schneider_Chennai\IAS\bin\Debug\ias.Xbee.pdb
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\ClassInfo.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\IAS.g.resources
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\GenerateResource.read.1.tlog
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\GenerateResource.write.1.tlog
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\IAS.exe
+C:\Saagar\Schneider_Chennai\IAS\obj\Debug\IAS.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\IAS.exe.config
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\IAS.exe
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\IAS.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.andonmanager.dll
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\WPFToolkit.dll
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.485Driver.dll
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.Xbee.dll
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\WPFToolkit.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.485Driver.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\bin\Debug\ias.Xbee.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ResourceDictionary.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\MainMenu.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\StartPage.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\MainMenu.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\StartPage.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\App.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\IAS.g.resources
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\GenerateResource.read.1.tlog
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\GenerateResource.write.1.tlog
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\IAS.exe
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\IAS.pdb
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\DisplayControl.baml
+C:\Saagar\Schneider_Attibele\Software\IAS\obj\Debug\DisplayControl.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\IAS.exe.config
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\IAS.exe
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\IAS.pdb
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\DisplayControl.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ResourceDictionary.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\MainMenu.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\StartPage.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\DisplayControl.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\MainMenu.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\StartPage.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\App.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\IAS.exe
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\IAS.pdb
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.andonmanager.dll
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\WPFToolkit.dll
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.485Driver.dll
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.Xbee.dll
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\WPFToolkit.pdb
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.485Driver.pdb
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\bin\Debug\ias.Xbee.pdb
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\IAS.g.resources
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\GenerateResource.read.1.tlog
+C:\Saagar\SCHNEIDER_SEPFC\Software\IAS\obj\Debug\GenerateResource.write.1.tlog
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\IAS.exe.config
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\IAS.exe
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\IAS.pdb
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\IAS.exe
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\IAS.pdb
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.andonmanager.dll
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\WPFToolkit.dll
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.485Driver.dll
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.Xbee.dll
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\WPFToolkit.pdb
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.485Driver.pdb
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\bin\Debug\ias.Xbee.pdb
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\DisplayControl.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ResourceDictionary.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\MainMenu.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\StartPage.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\DisplayControl.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\MainMenu.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\StartPage.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\App.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\IAS.g.resources
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\GenerateResource.read.1.tlog
+C:\Saagar\SCHNEIDER_SEPFC_20140217\Software\IAS\obj\Debug\GenerateResource.write.1.tlog
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\IAS.exe.config
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\IAS.exe
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\IAS.pdb
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\IAS.exe
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\IAS.pdb
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.andonmanager.dll
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\WPFToolkit.dll
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.485Driver.dll
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.Xbee.dll
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\WPFToolkit.pdb
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.485Driver.pdb
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\bin\Debug\ias.Xbee.pdb
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\DisplayControl.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ResourceDictionary.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\MainMenu.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\StartPage.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\DisplayControl.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\MainMenu.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\StartPage.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\App.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\IAS.g.resources
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\GenerateResource.read.1.tlog
+C:\Saagar\Repository\SEPFC_OUTPUT_TRACKING\Software\IAS\obj\Debug\GenerateResource.write.1.tlog
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\IAS.exe.config
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS.exe
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS.pdb
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\IAS.exe
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\IAS.pdb
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.andonmanager.dll
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.485Driver.dll
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.Xbee.dll
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\WPFToolkit.pdb
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.485Driver.pdb
+C:\Ideonics\Software\OutputTracking\Software\IAS\bin\Debug\ias.Xbee.pdb
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS.csprojResolveAssemblyReference.cache
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\DisplayControl.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ResourceDictionary.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\MainMenu.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\StartPage.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\DisplayControl.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\MainMenu.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\StartPage.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\App.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS.g.resources
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Ideonics\Software\OutputTracking\Software\IAS\obj\Debug\IAS.csproj.GenerateResource.Cache
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\IAS.exe.config
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\IAS.exe
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\IAS.pdb
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.andonmanager.dll
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.shared.dll
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.485Driver.dll
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.Xbee.dll
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.shared.pdb
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.485Driver.pdb
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\bin\Debug\ias.Xbee.pdb
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS.csprojResolveAssemblyReference.cache
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\DisplayControl.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ResourceDictionary.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\MainMenu.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\StartPage.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\DisplayControl.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\MainMenu.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\StartPage.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\App.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS.g.resources
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS.csproj.GenerateResource.Cache
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS.exe
+C:\Sagar\Repository\SEPFC\Software\OutputTracking\Software\IAS\obj\Debug\IAS.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\IAS.exe.config
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\IAS.exe
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\IAS.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\IAS.exe
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\IAS.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.andonmanager.dll
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.shared.dll
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.SerialPortDriver.dll
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.485Driver.dll
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.Xbee.dll
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.andonmanager.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.shared.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\WPFToolkit.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.SerialPortDriver.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.485Driver.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\bin\Debug\ias.Xbee.pdb
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\addModifyDeleteControl.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\DisplayControl.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ResourceDictionary.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\Resources\BrushesDictionary.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\MainMenu.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\StartPage.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\addModifyDeleteControl.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\DisplayControl.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftAddDelete.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactAddDelete.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineInfo.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineManagement.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\MainMenu.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SettingsManagment\Settings.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\StartPage.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\LineManagement\StationInfo.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\App.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\IAS_MarkupCompile.cache
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\IAS_MarkupCompile.lref
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\ContactDetails.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineInfo.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\LineManagement\LineManagement.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\SessionInfo.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SettingsManagment\Settings.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftInfo.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\ShiftManagement\ShiftManagement.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\LineManagement\StationInfo.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\SupportGroupManagement\SupportGroupManagement.baml
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\IAS.g.resources
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\IAS.Properties.Resources.resources
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Saagar\Desktop\OutputTracking\Software\IAS\obj\Debug\GenerateResource.write.1.tlog
