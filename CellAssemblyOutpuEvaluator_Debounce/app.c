@@ -65,7 +65,7 @@ typedef struct _LINEINFO
 
 typedef struct
 {
-UINT8 currentShift;
+	UINT8 currentShift;
 	SCROLL_SPEED scrollSpeed;
 	UINT16 shiftCumulative[3];
 }APPINFO;
@@ -153,7 +153,9 @@ enum
 	TWO = 1
 };
 
-const far rom UINT8* MESSAGE[] = { "BREAK   ","        OPERATORS=","IN TRANSITION" };
+const far rom UINT8* MESSAGE[] = { 	"BREAK   ",
+									"        OPERATORS=", 
+									"IN TRANSITION" };
 
 
 #pragma idata app_data
@@ -245,7 +247,7 @@ void APP_init(void)
 		app.line[i].state = NONE;
 
 	
-	app.line[i].prevState = ACTIVE;
+		app.line[i].prevState = ACTIVE;
 
 
 		app.line[i].keHistoryIndex = 59;
